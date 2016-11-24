@@ -57,3 +57,9 @@ button {
 button:hover {
   background-color: #cfd8dc;
 }
+button.delete {
+  float:right;
+  margin-right: .8em;
+  background-color: gray !important;
+  color:white;
+}
